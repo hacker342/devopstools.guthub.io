@@ -3,7 +3,8 @@ layout: home
 header:
   title: Комплексные IT-решения для вашего бизнеса. 
   text: >
-        Внедрение DevOps, разработка ботов, разработка и внедрение CRM на Django. 
+        Внедряем DevOps, разрабатываем ботов, разрабатываем и внедряем CRM на Django.
+        Настраиваем сервера, удаленный доступ, системы мониторинга. 
   action: # action button is optional
     label: О НАС
     url: '#about'
