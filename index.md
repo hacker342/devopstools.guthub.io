@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+title: Комплексные ИТ-решения для вашего бизнеса.
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+      Разрабатываем ботов, внедряем devops, создаем веб-проекты.  
   action: # action button is optional
-    label: Find Out More
+    label: О НАС БОЛЬШЕ
     url: '#about'
 
 
