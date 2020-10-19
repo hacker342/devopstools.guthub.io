@@ -5,7 +5,7 @@ header:
   text: >
         Внедрение DevOps, разработка ботов, разработка и внедрение CRM на Django. 
   action: # action button is optional
-    label: Find Out More
+    label: О НАС
     url: '#about'
 
 
@@ -13,10 +13,10 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Мы знаем как вам помочь! 
+    text: Начните работать вместе с нами уже сейчас! Разрабатываем IT-решения для вашего бизнеса! Внедряем DevOps,разрабатываем веб-системы, ботов, оказываем поддержку. Настройка серверов, удаленный доступ, системы мониторинга - мы можем все это сделать.  
     actions:
-      - title: Get Started!
+      - title: НАЧАТЬ!
         url: '#page-top'
         class: btn-light
 
