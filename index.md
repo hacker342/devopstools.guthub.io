@@ -32,7 +32,7 @@ sections:
         url: https://startbootstrap.com/
       - title: Разработка ботов
         text: Разрабатываем ботов с помощью API Telegram
-        icon: fa-telegram
+        icon: fas fa-robot
       - title: Up to Date
         text: We update dependencies to keep things fresh.
         icon: fa-laptop-code
