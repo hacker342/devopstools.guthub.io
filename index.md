@@ -30,7 +30,7 @@ sections:
         text: Внедряем ci/cd, обучаем DevOps.
         icon: fa-laptop-code
         url: https://startbootstrap.com/
-      - title: Разработка Телеграм ботов
+      - title: Разработка ботов
         text: Разрабатываем ботов с помощью API Telegram
         icon: fa-telegram-plane
       - title: Up to Date
