@@ -1,11 +1,12 @@
 ---
 layout: home
 header:
-title: Комплексные ИТ-решения для вашего бизнеса.
+title: For test
   text: >
-      Разрабатываем ботов, внедряем devops, создаем веб-проекты.  
+    Start Bootstrap can help you build better websites using the Bootstrap
+    framework! Just download a theme and start customizing, no strings attached!
   action: # action button is optional
-    label: О НАС БОЛЬШЕ
+    label: Find Out More
     url: '#about'
 
 
