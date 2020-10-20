@@ -33,9 +33,9 @@ sections:
       - title: Разработка ботов
         text: Разрабатываем ботов с помощью API Telegram
         icon: fas fa-robot
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
+      - title: Разработка сайтов
+        text: Разработка сайтов на Django.
+        icon: fab fa-python
       - title: Made with Love
         text: You have to make your websites with love these days!
         icon: fa-heart
