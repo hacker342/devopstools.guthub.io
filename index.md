@@ -36,9 +36,9 @@ sections:
       - title: Разработка сайтов
         text: Разработка веб-систем на Django.
         icon: fas fa-keyboard
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
+      - title: Настройка серверов
+        text: Настройка Linux серверов
+        icon: fas fa-server
       - title: Other 1
         text: Some not-so long text here.
         icon: fa-heart
