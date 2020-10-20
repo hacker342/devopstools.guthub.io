@@ -35,7 +35,7 @@ sections:
         icon: fas fa-robot
       - title: Разработка сайтов
         text: Разработка веб-систем на Django.
-        icon: fab fa-python
+        icon: fas fa-keyboard
       - title: Made with Love
         text: You have to make your websites with love these days!
         icon: fa-heart
