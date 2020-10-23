@@ -24,7 +24,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: Что мы можем
+    title: Услуги
     services:
       - title: Внедрение DevOps
         text: Внедряем ci/cd, обучаем DevOps.
