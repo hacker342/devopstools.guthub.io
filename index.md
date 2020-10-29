@@ -29,7 +29,6 @@ sections:
       - title: Внедрение DevOps
         text: Внедряем ci/cd, обучаем DevOps.
         icon: fa-laptop-code
-        url: https://startbootstrap.com/
       - title: Разработка ботов
         text: Разрабатываем ботов с помощью API Telegram
         icon: fas fa-robot
@@ -39,12 +38,8 @@ sections:
       - title: Настройка серверов
         text: Настройка Linux серверов
         icon: fas fa-server
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+
+     
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
