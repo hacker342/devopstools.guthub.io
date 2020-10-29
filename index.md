@@ -88,7 +88,7 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Кирьянов Артем
-        text: CEO и ведущий эксперт по технологиям
+        text: Ведущий DevOps инженер и руководитель компании.
         image: assets/img/members/me.png
         url: '#'
       - title: Милов Денис
