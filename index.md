@@ -92,7 +92,7 @@ sections:
         image: assets/img/members/person1.jpg
         url: '#'
       - title: Милов Денис
-        text: Эксперт по Bitrix технологиям.
+        text: Специалист по Bitrix и Drupal.
         image: assets/img/members/denis.png
         url: '#'
       - title: Devon J. Fletcher
