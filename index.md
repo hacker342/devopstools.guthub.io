@@ -84,16 +84,16 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Наша команда
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
+      - title: Кирьянов Артем
+        text: CEO и ведущий эксперт по технологиям
         image: assets/img/members/person1.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
+      - title: Милов Денис
+        text: Эксперт по Bitrix технологиям.
+        image: assets/img/members/denis.png
         url: '#'
       - title: Devon J. Fletcher
         text: Lead guitar.
