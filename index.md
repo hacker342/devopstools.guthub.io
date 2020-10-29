@@ -89,7 +89,7 @@ sections:
     members:
       - title: Кирьянов Артем
         text: CEO и ведущий эксперт по технологиям
-        image: assets/img/members/person1.jpg
+        image: assets/img/members/me.png
         url: '#'
       - title: Милов Денис
         text: Специалист по Bitrix и Drupal.
