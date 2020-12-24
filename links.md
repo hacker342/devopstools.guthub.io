@@ -39,7 +39,7 @@ sections:
 
 - type: paragraph.html
   section_id: more-to-come
-  title: No HTML!
+  title: А что по стоимости?
 #  background_style: bg-info
 #  text_style: text-left text-white
   actions:
@@ -47,55 +47,36 @@ sections:
      class: btn-info
      url: '#'
   text: >+
-    ### Typographic replacements
+   ### Как я работаю
+В этой таблице вы увидите стандартный прайс по часто поступающим запросам.
 
-    Enable typographer option to see result.
+> В стоимость не входит выезд на объект и работу в выходные. Работы выполняются только удаленно. 
 
-    (c) (C) (r) (R) (tm) (TM) (p) (P) +-
+### Администрирование
 
-    test.. test... test..... test?..... test!....
-
-    !!!!!! ???? ,,  -- ---
-
-    "Smartypants, double quotes" and 'single quotes'
-
-
-    ### Emphasis
-
-    **This is bold text**
-
-    __This is bold text__
-
-    *This is italic text*
-
-    _This is italic text_
-
-    ~~Strikethrough~~
+| Что не работает                                                        | Стоимость исправления                               |
+|------------------------------------------------------------------------|-----------------------------------------------------|
+| Перестал печатать принтер                                              | 1000 рублей                                         |
+| Не получается зайти удаленно на ПК                                     | 1500 рублей                                         |
+| Компьютер тормозит                                                     | Исправление на программном уровне - 2500 рублей     |
+| Настройка КриптоПро                                                    | 3000 рублей                                         |
+| Настройка MS Office (зависает, глючит)                                 | 2000 рублей                                         |
+| Не открывается сайт                                                    | 500 рублей                                          |
+| Настройка VPN                                                          | 3500 рублей                                         |
+| Создание пользователей на сервере и добавление в группу                | Windows - 700 руб, Linux - 500 (за 1 пользователя ) |
+| Настройка сервера                                                      | 6000 рублей                                         |
+| Настройка удаленного входа по RDP без белого IP (DDNS + проброс порта) | 5500 рублей*                                        |
+| Настройка удаленного доступа по RDP с белым IP (проброс порта)         | 2500 рублей                                         |
+| Настройка удаленного доступа по ssh (с пробросом порта)                | 4000 рублей                                         |
 
 
-    ### Blockquotes
+> В настройку удаленного доступа не входит покупка VPS и проброс порта. За VPS необходимо платить 100 рублей в месяц, либо купить белый IP адрес от провайдера и уже настраивать вход по RDP.
 
-    > Blockquotes can also be nested...
-    >> ...by using additional greater-than signs right next to each other...
-    > > > ...or with spaces between arrows.
+### Разработка
 
-    ### Lists
+Стоимость разработки складывается из ТЗ(описание задачи) + трудоемкость(время). У заказчика должны быть все необходимые доступа, данные, хостинг и т.д. Если таких данных нет, то стоимость будет выше, так как необходимо будет настраивать VPS или хостинг, покупать домен. 
 
-    Unordered
-
-    + Create a list by starting a line with `+`, `-`, or `*`
-    + Sub-lists are made by indenting 2 spaces:
-    - Marker character change forces new list start:
-      * Ac tristique libero volutpat at
-      + Facilisis in pretium nisl aliquet
-      - Nulla volutpat aliquam velit
-    + Very easy!
-
-    Ordered
-
-    1. Lorem ipsum dolor sit amet
-    2. Consectetur adipiscing elit
-    3. Integer molestie lorem at massa
+Стоимость моих услуг в час составляет 1500 рублей.
 
 ---
 Here goes some raw markdown content.
