@@ -20,6 +20,9 @@ sections:
       - title: Связаться с нами!
         url: '#page-top'
         class: btn-light
+      - title: Telegram
+        url: '#'
+        class: btn-light
 
   - type: services.html
     section_id: services
