@@ -22,7 +22,7 @@ sections:
         class: btn-light
       - title: Telegram
         url: '#'
-        class: btn-light
+        icon: fa-phone
 
   - type: services.html
     section_id: services
