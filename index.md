@@ -17,12 +17,12 @@ sections:
     title: Начните работать с нами!
     text: Разрабатываем IT-решения для вашего бизнеса! Внедряем DevOps,разрабатываем веб-системы, ботов, оказываем поддержку. Оказываем полный спектр ИТ решений. 
     actions:
-      - title: Связаться с нами!
-        url: '#page-top'
+      - title: WhatsApp
+        url: 'https://api.whatsapp.com/message/ES4ODFIS5TPJK1'
         class: btn-light
       - title: Telegram
-        url: '#'
-        icon: fa-phone
+        url: 'https://t.me/DevopsToolsBot'
+        class: btn-light
 
   - type: services.html
     section_id: services
