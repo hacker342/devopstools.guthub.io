@@ -38,6 +38,9 @@ sections:
       - title: Настройка серверов
         text: Настройка Linux серверов
         icon: fas fa-server
+      - title: Тех.поддержка
+        text: Техническая поддержка
+        icon: fas fa-server
 
      
 
