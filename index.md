@@ -74,44 +74,6 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
-
-  - type: members.html
-    section_id: members
-    title: Наша команда
-    background_style: bg-info text-white
-    members:
-      - title: Кирьянов Артем
-        text: Ведущий DevOps инженер и руководитель компании.
-        image: assets/img/members/me.png
-        url: '#'
-      - title: Милов Денис
-        text: Сертифицированный специалист по Bitrix и Drupal.
-        image: assets/img/members/denis.png
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
-
   
   - type: contact.html
     section_id: contacts
