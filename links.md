@@ -84,15 +84,15 @@ sections:
         </button>
       </div>
       <div class="modal-body">
-        <b>Есть ли у вас хостинг?</b><br/>
+        <b>Есть-ли у вас хостинг?</b><br/>
          <select onchange="calc()" id="hosting">
-            <option value="0">Нет,у меня есть хостинг</option>
-            <option value="5000">Да,мне нужен хостинг</option>
+            <option value="300">Нет</option>
+            <option value="0">Да</option>
         </select><br/><br/>
         <b>Есть-ли у вас домен?</b><br/>
          <select onchange="calc()" id="hosting">
-            <option value="0">Нет,у меня есть хостинг</option>
-            <option value="5000">Да,мне нужен хостинг</option>
+            <option value="300">Нет</option>
+            <option value="0">Да</option>
         </select><br/>
       </div>
     </div>
