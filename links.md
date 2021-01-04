@@ -39,13 +39,9 @@ sections:
 
 - type: paragraph.html
   section_id: more-to-come
-  title: А что по стоимости?
+  title: Стоимость моих услуг
 #  background_style: bg-info
 #  text_style: text-left text-white
-  actions:
-   - title: Markdown is fun!
-     class: btn-info
-     url: '#'
   text: >+
    ### Как я работаю
 
