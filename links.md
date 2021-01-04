@@ -78,13 +78,17 @@ sections:
   <div class="modal-dialog modal-lg">
    <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Modal title</h5>
+        <h5 class="modal-title">Калькулятор сайтов</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>Modal body text goes here.</p>
+        <b>Хостинг:</b><br/>
+         <select onchange="calc()" id="hosting">
+            <option value="0">Не,у меня есть хостинг</option>
+            <option value="5000">Да,мне нужен хостинг</option>
+        </select><br/>
       </div>
     </div>
   </div>
