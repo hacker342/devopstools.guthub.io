@@ -88,7 +88,7 @@ sections:
          <select onchange="calc()" id="hosting">
             <option value="0">Не,у меня есть хостинг</option>
             <option value="5000">Да,мне нужен хостинг</option>
-        </select><br/><br>
+        </select><br/><br/>
         <b>Домен:</b><br/>
          <select onchange="calc()" id="hosting">
             <option value="0">Не,у меня есть хостинг</option>
