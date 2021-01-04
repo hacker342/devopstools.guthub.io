@@ -39,7 +39,7 @@ sections:
 
 - type: paragraph.html
   section_id: more-to-come
-  title: Стоимость моих услуг
+  title: Стоимость услуг
 #  background_style: bg-info
 #  text_style: text-left text-white
 ---
