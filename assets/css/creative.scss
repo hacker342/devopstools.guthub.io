@@ -544,6 +544,16 @@ pre code {
   overflow-y: scroll;
 }
 
+td {
+  border: solid 3px !important;
+  border-color: #383D3D !important;
+}
+
+tr {
+  border: solid 3px !important;
+  border-color: #383D3D !important;
+}
+
 .container {
   width: 100%;
   padding-right: 15px;
@@ -10118,15 +10128,4 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
-}
-
-
-td {
-  border: solid 3px !important;
-  border-color: #383D3D !important;
-}
-
-tr {
-  border: solid 3px !important;
-  border-color: #383D3D !important;
 }
