@@ -42,8 +42,6 @@ sections:
   title: Стоимость моих услуг
 #  background_style: bg-info
 #  text_style: text-left text-white
-
-
 ---
 В этой таблице вы увидите стандартный прайс по часто поступающим запросам.
 
