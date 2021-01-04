@@ -83,23 +83,22 @@ sections:
   
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Наши контакты
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Свяжитесь с нами любым удобным способом и мы поможем вам. 
     actions:
-    - title: +1 (202) 555-014
+    - title: +7 (995) 299-83-85
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
+      url: mailto:stream1992@gmail.com
+    - title: Telegram
+      icon: fab fa-telegram
       icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
+      url: 'https://t.me/DevopsToolsBot'
+    - title: WhatsApp
+      icon: fab fa-whatsapp
       icon_type: fab
-      url: '#'
+      url: 'https://api.whatsapp.com/message/ES4ODFIS5TPJK1'
 
 ---
