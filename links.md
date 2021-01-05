@@ -71,37 +71,4 @@ sections:
 
 Стоимость разработки сайта, телеграм-бота, складывается из ТЗ(описание задачи) + трудоемкость(время). 
 Для разработки сайта необходим хостинг, домен. Купить домен и хостинг вы можете у наших друзей из [Fozzy](https://fozzy.com/aff.php?aff=17309)
-
-
-
-<!-- Large modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">Large modal</button>
-
-<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-   <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Калькулятор </h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <b>Есть-ли у вас хостинг?</b><br/>
-         <select onchange="calc()" id="hosting">
-            <option value="300">Нет</option>
-            <option value="0">Да</option>
-        </select><br/><br/>
-        <b>Есть-ли у вас домен?</b><br/>
-         <select onchange="calc()" id="hosting">
-            <option value="300">Нет</option>
-            <option value="0">Да</option>
-        </select><br/>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
 Стоимость моих услуг в час составляет 1500 рублей.
