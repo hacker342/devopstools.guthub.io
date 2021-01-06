@@ -36,7 +36,7 @@ sections:
         text: Разрабатываем ботов с помощью API Telegram
         icon: fas fa-robot
       - title: Разработка сайтов
-        text: Разработка веб-систем на Django.
+        text: Разработка веб-систем на Django и  modX.
         icon: fas fa-keyboard
       - title: Настройка серверов
         text: Настройка серверов
