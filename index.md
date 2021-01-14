@@ -15,7 +15,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Начните работать с нами!
-    text: Разрабатываем IT-решения для вашего бизнеса! Внедряем DevOps,разрабатываем веб-системы, ботов, оказываем поддержку. Оказываем полный спектр ИТ решений. 
+    text: Разрабатываем IT-решения для вашего бизнеса! Внедряем DevOps,разрабатываем веб-системы, ботов, оказываем поддержку. 
     actions:
       - title: WhatsApp
         url: 'https://api.whatsapp.com/message/ES4ODFIS5TPJK1'
