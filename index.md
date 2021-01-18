@@ -87,7 +87,7 @@ sections:
     text: >-
       Свяжитесь с нами любым удобным способом и мы ответим на ваши вопросы. 
     actions:
-    - title: +7 (925) 276-45-29
+    - title: +7 (995) 299-83-85
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
@@ -99,6 +99,6 @@ sections:
     - title: WhatsApp
       icon: fab fa-whatsapp
       icon_type: fab
-      url: 'https://wa.me/+79252764529'
+      url: 'https://wa.me/message/ES4ODFIS5TPJK1'
 
 ---
