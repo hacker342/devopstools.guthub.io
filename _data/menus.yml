@@ -9,9 +9,6 @@ header:
   url: /#about
 - title: Услуги
   url: /#services
-  sublinks:
-    - title: Sub-item 1
-      url: /group/si1
 # - title: Members
 #   url: /#members
 # - title: History
