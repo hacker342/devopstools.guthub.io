@@ -92,10 +92,10 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:stream1992@gmail.com
-    - title: TamTam
+    - title: Telegram
       icon: fab fa-telegram
       icon_type: fab
-      url: 'https://tt.me/devdevops'
+      url: 'https://t.me/DevopsToolsBot'
     - title: WhatsApp
       icon: fab fa-whatsapp
       icon_type: fab
