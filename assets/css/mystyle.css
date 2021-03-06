@@ -31,6 +31,12 @@
     max-width: 100%;
     height: auto;
 }
+#portfolio .portfolio-item .portfolio-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
 #portfolio .portfolio-item .portfolio-caption {
     margin: 0 auto;
     padding: 25px;
