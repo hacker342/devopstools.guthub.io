@@ -2,6 +2,9 @@
 #portfolio .portfolio-item {
     margin: 0 0 30px;
 }
+.col-md-4.col-sm-6.portfolio-item {
+    margin: 0 0 30px;
+}
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
