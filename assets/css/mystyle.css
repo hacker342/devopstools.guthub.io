@@ -1,3 +1,8 @@
+@media (min-width: 767px)
+#portfolio .portfolio-item {
+    margin: 0 0 30px;
+}
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 100%;
