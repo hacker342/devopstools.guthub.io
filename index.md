@@ -51,6 +51,7 @@ sections:
     # this section has always ID 'portfolio'
     section_id: portfolio
     background_style: bg-dark
+    title: Наши работы
     projects:
       - title: Project 1
         text: This is a very short project description.
