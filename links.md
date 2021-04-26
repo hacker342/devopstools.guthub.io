@@ -18,26 +18,15 @@
 #    background_style: bg-info
 
 
-layout: page
+layout: home
 header:
-  title: Клиенту
+  title: IT-решения 
+  text: >
+        Внедрение DevOps, разработка ботов, разработка и внедрение CRM на Django.
+        Настройка серверов,удаленный доступ,системы мониторинга. 
   action: # action button is optional
-    label: Как мы работаем
-    url: '#howweworks'
-
-sections:
-  - type: call-to-action.html
-    section_id: about
-    background_style: bg-primary
-    title: Начните работать с нами!
-    text: Разрабатываем IT-решения для вашего бизнеса! Внедряем DevOps,разрабатываем веб-системы, ботов, оказываем поддержку. 
-    actions:
-      - title: WhatsApp
-        url: 'https://api.whatsapp.com/message/ES4ODFIS5TPJK1'
-        class: btn-light
-      - title: Telegram
-        url: 'https://t.me/DevopsToolsBot'
-        class: btn-light
+    label: О НАС
+    url: '#about'
 
 
 
