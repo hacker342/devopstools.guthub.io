@@ -5,7 +5,6 @@
     <div class="row justify-content-center">
       <div class="mb-4 {{ section.text_style | default: "text-muted" }}">
         {{ section.text | newline_to_br | markdownify }}
-        СЮКА
       </div>
     </div>
     {% include actions.html actions=section.actions %}
