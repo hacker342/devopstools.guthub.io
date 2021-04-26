@@ -20,10 +20,25 @@
 
 layout: page
 header:
-  section_title: Клиенту
+  title: Клиенту
   action: # action button is optional
     label: Как мы работаем
     url: '#howweworks'
+
+sections:
+  - type: call-to-action.html
+    section_id: about
+    background_style: bg-primary
+    title: Начните работать с нами!
+    text: Разрабатываем IT-решения для вашего бизнеса! Внедряем DevOps,разрабатываем веб-системы, ботов, оказываем поддержку. 
+    actions:
+      - title: WhatsApp
+        url: 'https://api.whatsapp.com/message/ES4ODFIS5TPJK1'
+        class: btn-light
+      - title: Telegram
+        url: 'https://t.me/DevopsToolsBot'
+        class: btn-light
+
 
 
 ---
