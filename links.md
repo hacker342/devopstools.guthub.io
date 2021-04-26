@@ -20,7 +20,7 @@
 
 layout: page
 header:
-  title: Клиенту
+  section_title: Клиенту
   action: # action button is optional
     label: Как мы работаем
     url: '#howweworks'
